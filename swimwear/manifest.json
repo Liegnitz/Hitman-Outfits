@@ -1,0 +1,10 @@
+{
+    "id": "Liegnitz.Swimwear",
+    "name": "Swimwear Outfit Replacement",
+    "description": "Replaces the Lynch & Cowboy Suit with the Swimwear Outfit from Haven Island. The Cowboy version has sunglasses and loafers.",
+    "authors": ["Liegnitz"],
+    "frameworkVersion": "2.33.4",
+    "version": "0.1.0",
+	"contentFolders": ["content"],
+    "dependencies": ["001CD3ADA89FA70C"]
+}

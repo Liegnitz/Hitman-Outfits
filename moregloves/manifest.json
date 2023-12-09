@@ -1,0 +1,9 @@
+{
+	"version": "1.0.0",
+	"id": "Liegnitz.moregloves",
+	"name": "Arkian Tux, Midnight Black, Smart Casual & Lucky Ducky with Gloves",
+	"description": "Gives Black Leather Gloves to the Arkian Tuxedo, Midnight Black, Smart Casual & Lucky Ducky Outfit.",
+	"authors": ["Liegnitz"],
+	"frameworkVersion": "2.33.6",
+	"contentFolders": ["content"]
+}
